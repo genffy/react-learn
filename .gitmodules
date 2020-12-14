@@ -1,0 +1,5 @@
+[submodule "react-component/tabs"]
+	path = react-component/tabs
+	url = git@github.com:react-component/tabs.git
+  branch = master
+  ignore = all
